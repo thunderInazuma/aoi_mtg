@@ -1,11 +1,11 @@
 # 琴葉葵MTGやります 番外編:マナベースとモンテカルロ法
 
-動画URL : https://www.nicovideo.jp/watch/sm34193158
+* 動画URL : https://www.nicovideo.jp/watch/sm34193158
 
-マナベースとモンテカルロ法：http://www.hareruyamtg.com/article/sp/category/detail/5462 
-pythonのインストール：https://www.python.jp/install/windows/install_py3.html 
-Visual Studio Code のインストール：https://azure.microsoft.com/ja-jp/products/visual-studio-code/ 
-GitHubのURL : https://github.com/thunderInazuma/aoi_mtg 
+* マナベースとモンテカルロ法：http://www.hareruyamtg.com/article/sp/category/detail/5462 
+* pythonのインストール：https://www.python.jp/install/windows/install_py3.html 
+* Visual Studio Code のインストール：https://azure.microsoft.com/ja-jp/products/visual-studio-code/ 
+* GitHubのURL : https://github.com/thunderInazuma/aoi_mtg 
 
 # 動画構成 
 1. 導入 
